@@ -1,0 +1,2 @@
+2019-10-19T16:15:29+00:00 CRITICAL Out of memory (allocated 755761152) (tried to allocate 58206 bytes) in /home4/dra90nep/public_html/anselljaya.com/wp-content/plugins/duplicator/classes/package/class.pack.archive.zip.php on line 167
+

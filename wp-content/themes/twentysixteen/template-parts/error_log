@@ -1,0 +1,11 @@
+[27-Oct-2018 05:02:22 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[28-Oct-2018 05:46:01 America/Chicago] PHP Fatal error:  Call to undefined function apply_filters() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[29-Oct-2018 22:17:40 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11
+[09-Nov-2018 12:33:25 America/Chicago] PHP Fatal error:  Call to undefined function _e() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[15-Nov-2018 22:06:50 America/Chicago] PHP Fatal error:  Call to undefined function apply_filters() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[16-Nov-2018 01:37:08 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11
+[05-Dec-2018 04:06:43 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 07:44:12 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 03:18:11 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 03:44:35 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[11-Jun-2019 03:48:30 America/Chicago] PHP Fatal error:  Call to undefined function the_ID() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

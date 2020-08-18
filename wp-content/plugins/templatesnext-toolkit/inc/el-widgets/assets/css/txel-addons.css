@@ -1,0 +1,11 @@
+/* CSS */
+
+.tx-slider.tx-el-slider .tx-slider-img {
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.dialog-type-lightbox {
+	z-index: 300010;
+}

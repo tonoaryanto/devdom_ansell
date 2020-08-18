@@ -1,0 +1,4 @@
+[30-Oct-2018 19:50:56 America/Chicago] PHP Fatal error:  Call to undefined function is_admin() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[03-Nov-2018 20:02:46 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/inc/customizer.php on line 61
+[11-Jun-2019 15:13:56 America/Chicago] PHP Fatal error:  Call to undefined function is_admin() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/inc/template-tags.php on line 169
+[11-Jun-2019 15:14:47 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentysixteen/inc/customizer.php on line 61

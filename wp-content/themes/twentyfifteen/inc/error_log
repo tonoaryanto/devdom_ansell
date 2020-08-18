@@ -1,0 +1,6 @@
+[25-Oct-2018 20:59:08 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 00:53:20 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 05:31:38 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 05:50:15 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 10:00:16 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
+[09-Nov-2018 08:08:20 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home4/dra90nep/public_html/anselljaya.com/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

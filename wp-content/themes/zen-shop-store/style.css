@@ -1,0 +1,119 @@
+/*
+Theme Name: Zen Shop Store
+Description: Zen Shop Store is a full functional WordPress theme for eCommerce websites. it is child theme of Di eCommerce theme and comes with different color scheme and have two new widgets for WooCommerce plugin : Recent Products Carousel Widget and Featured Product Widget. it is Responsive, SEO Friendly, Fast to Load and Fully Customizable eCommerce theme. it is specially designed for eCommerce websites and have additional style for WooCommerce sections. it also adds options to manage WooCommerce features like enable/disable related products, products per page, products per column, WooCommerce page layouts, gallery zoom etc.
+Author: Di Themes
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar, grid-layout, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, wide-blocks, blog, e-commerce, portfolio
+Text Domain: zen-shop-store
+Template: di-ecommerce
+*/
+
+.sidprotitle {
+	background-color: #000;
+	color: #fff;
+	padding: 4px 15px;
+	font-size: 16px;
+	position: relative;
+	top: -36px;
+	margin: 0 auto;
+	display: table;
+}
+
+.di-featured-product .sidproimg {
+	transform: scale(1);
+	transition: transform 0.5s ease;
+	width: 100%;
+}
+
+.di-featured-product:hover .sidproimg {
+	transform: scale(1.05);
+}
+
+
+.rpctitle {
+	position: absolute;
+	top: 45%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	display: table;
+	background-color: #000;
+	color: #fff;
+	padding: 4px 15px;
+	font-size: 16px;
+}
+
+
+.masterbtn {
+	border-radius: 0px;
+	line-height: unset;
+	white-space: unset;
+}
+
+.masterbtn:hover {
+	color: #fff;
+}
+
+
+.bgtoph {
+	background-color: #f66f66;
+}
+
+
+.navbarprimary.navbar {
+	border-color: #f66f66;
+}
+.navbarprimary {
+	background-color: #f66f66;
+}
+
+.masterbtn,
+.wpcf7-form .wpcf7-form-control.wpcf7-submit,
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,
+.tagcloud a,
+.singletags a,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+#back-to-top, .di_ecommerce_social_widget a, .bbp-submit-wrapper .button,
+.side-menu-menu-button,
+.post-navigation .nav-next a, .post-navigation .nav-previous a,
+.woocommerce.widget_product_search button[type="submit"],
+.yikes-mailchimp-container .yikes-easy-mc-submit-button.btn-primary
+{
+	background-color: #f66f66;
+}
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt  {
+	background-color: #f66f66 !important;
+}
+.di-cart-count-animate {
+	color: #f66f66;
+}
+.singletags a::before, .tagcloud a::before {
+	border-right-color: #f66f66;
+}
+
+.masterbtn:hover,
+.wpcf7-form .wpcf7-form-control.wpcf7-submit:hover,
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content,
+.tagcloud a:hover,
+.singletags a:hover,
+#back-to-top:hover, .di_ecommerce_social_widget a:hover, .bbp-submit-wrapper .button:hover,
+.side-menu-menu-button:hover,
+.post-navigation .nav-next a:before, .post-navigation .nav-previous a:before,
+.woocommerce.widget_product_search button[type="submit"]:hover,
+.yikes-mailchimp-container .yikes-easy-mc-submit-button.btn-primary:hover
+{
+	background-color: #000000;
+}
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover,
+.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+	background-color: #000000 !important;
+}
+.side-menu-menu-button:hover .di-cart-count-animate {
+	color: #000000;
+}
+.tagcloud a:hover::before, .singletags a:hover::before {
+	border-right-color: #000000;
+}
+
